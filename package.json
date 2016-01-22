@@ -1,0 +1,15 @@
+{
+  "name": "dorpamine01-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "browser-sync": "^2.11.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start":"browser-sync start --server --files='./*'"
+  },
+  "author": "@oratnin",
+  "license": "ISC"
+}
