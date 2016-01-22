@@ -1,5 +1,5 @@
-dorpmini01_bs
-=============
+dorpamine vol.1 Demo
+====================
 
 2016-01-23 dorpamine vol.1 「デザイナーさんでも分かる Browsersync からはじめる作業効率化」デモ。
 
