@@ -1,7 +1,7 @@
-dorpamine vol.1 Demo
+Browsersync Demo
 ====================
 
-2016-01-23 dorpamine vol.1 「デザイナーさんでも分かる Browsersync からはじめる作業効率化」デモ。
+「デザイナーさんでも分かる Browsersync からはじめる作業効率化」デモ。
 
 ## Usage
 
