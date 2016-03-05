@@ -14,4 +14,5 @@ $ npm install
 $ npm start
 4. ブラウザが立ち上がって localhost:3000 が表示されればOK
 5. html、cssファイルを編集して Browsersync の動作を確認
+6. モバイル端末で確認するには、Terminal等に表示される“External:〜 ” のIPアドレスにブラウザからアクセス
 
