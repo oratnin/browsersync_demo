@@ -5,7 +5,7 @@ Browsersync Demo
 
 ## Usage
 
-node.js は別途インストールしてください。
+node.js は別途インストールしてください。  
 [Node.js](https://nodejs.org/)
 
 1. デモファイル一式を clone かダウンロード
